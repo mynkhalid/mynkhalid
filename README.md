@@ -51,13 +51,12 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 🎯 What I'm Focused On
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mynkhalid&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mynkhalid&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mynkhalid&layout=compact&theme=tokyonight&langs_count=8)
+- 🔭 Currently strengthening my skills in **IoT system integration** and **full stack web development**
+- 🌱 Exploring **QA/testing practices** (manual testing, SQL, REST APIs) to complement my technical background
+- 💬 Open to discussing **Technical Support**, **Quality Assurance**, and **System Integration** opportunities
+- 📍 Based in Bandung, Indonesia — open to roles in Jakarta and Bandung
 
 ---
 
